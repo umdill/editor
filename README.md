@@ -1,9 +1,9 @@
 # by kya
 ## ```< features > ```
 
-copying
+> copying
 
-pasting
+> pasting
 
 
 ---
